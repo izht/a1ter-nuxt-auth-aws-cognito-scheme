@@ -1,0 +1,22 @@
+{
+  "name": "@a1ter/nuxt-auth-aws-cognito-scheme",
+  "version": "0.0.12",
+  "description": "cognito aws amplify scheme for @nuxtjs/auth ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@aws-amplify/auth": "^3.2.13",
+    "@aws-amplify/core": "^3.3.3",
+    "@nuxtjs/auth-next": "5.0.0-1592174780.948291",
+    "@nuxtjs/axios": "^5.3.6"
+  },
+  "author": "andrey.k",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/A1ter/nuxt-auth-aws-cognito-scheme.git"
+  },
+  "homepage": "https://bitbucket.org/A1ter/nuxt-auth-aws-cognito-scheme#readme"
+}
